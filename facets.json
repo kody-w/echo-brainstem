@@ -1,6 +1,6 @@
 {
   "schema": "rapp-facets/1.0",
-  "rappid": "rappid:v2:twin:@kody-w/echo-brainstem:15461d6259ec49bdaf8ea032571b3f03@github.com/kody-w/echo-brainstem",
+  "rappid": "rappid:@kody-w/echo-brainstem:15461d6259ec49bdaf8ea032571b3f03",
   "facets": {},
   "_note": "Declare published capabilities here over time. See specs/SPEC.md \u00a73."
 }

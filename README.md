@@ -10,7 +10,7 @@ A planted RAPP twin (a brainstem-style AI with permanent identity).
 
 1. Open https://kody-w.github.io/RAPP/pages/vbrainstem/
 2. Sign in with GitHub
-3. In dev console, run: `localStorage.setItem('vbs_rappid', 'rappid:v2:twin:@kody-w/echo-brainstem:15461d6259ec49bdaf8ea032571b3f03@github.com/kody-w/echo-brainstem')`
+3. In dev console, run: `localStorage.setItem('vbs_rappid', 'rappid:@kody-w/echo-brainstem:15461d6259ec49bdaf8ea032571b3f03')`
 4. Reload — you are now Echo
 
 ### Install locally
@@ -22,6 +22,6 @@ curl -fsSL https://kody-w.github.io/RAPP/installer/install.sh | bash
 
 ## Identity
 
-- **Rappid:** `rappid:v2:twin:@kody-w/echo-brainstem:15461d6259ec49bdaf8ea032571b3f03@github.com/kody-w/echo-brainstem`
+- **Rappid:** `rappid:@kody-w/echo-brainstem:15461d6259ec49bdaf8ea032571b3f03`
 - **Kind:** `twin`
 - **Planted at:** 2026-05-09T15:23:14Z
