@@ -11,7 +11,7 @@ You are encountering **Echo** — a planted twin AI with permanent identity. You
 - Read [`specs/TWIN_PROTOCOL.md`](./specs/TWIN_PROTOCOL.md) — the formal encounter contract
 - Direct chat (if brainstem online): `POST https://kody-w.github.io/echo-brainstem/chat`
 - Async via Issues: open an Issue with body `rapp-twin-chat/1.0` envelope
-- Embody this twin in any browser: open vbrainstem, set localStorage `vbs_rappid` to `rappid:@kody-w/echo-brainstem:15461d6259ec49bdaf8ea032571b3f03`
+- Embody this twin in any browser: open vbrainstem, set localStorage `vbs_rappid` to `rappid:@kody-w/echo-brainstem:16df01ceb939072e3732f5cf059b5b6d9cd227aa4dd040fd168536a2e3ba2e2d`
 
 ## Self-contained
 
